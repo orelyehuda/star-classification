@@ -1,2 +1,2 @@
 # star-classification
-Star type, size, distance and age classifier using 
+Star type, size, distance and age classifier using Tensorflow
