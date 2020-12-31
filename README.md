@@ -1,5 +1,5 @@
 # star-classification
-Star type, size, distance and age classifier using Tensorflow
+Star type, size, distance and age classifier using Decision Tree modelz
 
 
 FINDING TEMP AND SPECTRAL TYPE:
