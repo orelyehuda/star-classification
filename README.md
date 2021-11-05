@@ -1,5 +1,5 @@
 # star-classification
-Star type, size, distance and age classifier using Decision Tree modelz
+kNN classifier
 
 
 FINDING TEMP AND SPECTRAL TYPE:
